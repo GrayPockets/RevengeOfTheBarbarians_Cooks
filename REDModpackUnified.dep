@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <AssetObjects..GameDependencyData>
 	<ID>
-		<name text="Revenge of the Barbarians Fixes"/>
+		<name text="Revenge of the Barbarians Fixes - REDModpackUnified"/>
 		<id text="60a8a4ef-0ac6-4a0a-9f12-c604b5f1862d"/>
 	</ID>
 	<RequiredGameArtIDs>
@@ -14,7 +14,7 @@
 		<Element>
 			<ConsumerName text="Units"/>
 			<ArtDefDependencyPaths>
-				<Element text="OriginalREDModpack.artdef"/>
+				<Element text="REDModpackUnified.artdef"/>
 			</ArtDefDependencyPaths>
 			<LibraryDependencies>
 				<Element text="Unit"/>
@@ -267,7 +267,7 @@
 		<Element>
 			<ConsumerName text="Audio"/>
 			<ArtDefDependencyPaths>
-				<Element text="OriginalREDModpack.artdef"/>
+				<Element text="REDModpackUnified.artdef"/>
 			</ArtDefDependencyPaths>
 			<LibraryDependencies/>
 			<LoadsLibraries>false</LoadsLibraries>
@@ -377,9 +377,9 @@
 	</SystemDependencies>
 	<ArtDefDependencies>
 		<Element>
-			<ArtDefPath text="OriginalREDModpack.artdef"/>
+			<ArtDefPath text="REDModpackUnified.artdef"/>
 			<ArtDefDependencyPaths>
-				<Element text="OriginalREDModpack.artdef"/>
+				<Element text="REDModpackUnified.artdef"/>
 			</ArtDefDependencyPaths>
 		</Element>
 		<Element>

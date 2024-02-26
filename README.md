@@ -11,8 +11,8 @@ This mod fixes several items in "Revenge of the Barbarians"
 ## Mod Support
 
 * Nere's Better Barbarian Clans mode
-* R.E.D. Modpack
 * R.E.D Total War Unified Modpack
+* R.E.D. Modpack
 * Sukritact's Barbarians--
 
 ## Requirements
