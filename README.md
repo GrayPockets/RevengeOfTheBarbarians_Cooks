@@ -1,8 +1,8 @@
-# GrayPockets - Revenge of the Barbarians - Fixes
+# GrayPockets - Revenge of the Barbarians - Cooks
 
 ## Description
 
-This mod fixes several items in "Revenge of the Barbarians"
+This mod cooks several items in "Revenge of the Barbarians"
 
 * Support Barbarian Clans game mode.
 * Correct lua errors caused when a new Barbarian is added to the map then quickly deleted by another mod.

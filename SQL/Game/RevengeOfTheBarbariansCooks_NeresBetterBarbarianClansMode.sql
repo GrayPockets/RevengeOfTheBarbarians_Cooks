@@ -1,4 +1,4 @@
--- Use the Revenge of the Barbarians values instead of Nere's Better Barbarbarian Clans mode (99999)
+-- Use the Revenge of the Barbarians values instead of Nere's Better Barbarbarian Clans mode
 
 UPDATE "GlobalParameters"
 SET
