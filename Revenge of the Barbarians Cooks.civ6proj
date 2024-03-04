@@ -7,7 +7,7 @@
     <ProjectGuid>e4b48095-f9b0-4a9a-843d-028187594302</ProjectGuid>
     <ModVersion>1</ModVersion>
     <Teaser>Cooks for Revenge of the Barbarians</Teaser>
-    <Description>This mod cooks several items in "Revenge of the Barbarians"[NEWLINE][NEWLINE][ICON_BULLET] Support Barbarian Clans game mode.[NEWLINE][ICON_BULLET] Correct lua errors caused when a new Barbarian is added to the map then quickly deleted by another mod.[NEWLINE][ICON_BULLET] R.E.D.: Barbarian Units now scale.[NEWLINE][NEWLINE]Mod Support[NEWLINE][ICON_BULLET] Nere's Better Barbarian Clans mode[NEWLINE][ICON_BULLET] R.E.D Total War Unified Modpack[NEWLINE][ICON_BULLET] R.E.D. Modpack[NEWLINE][ICON_BULLET] Sukritact's Barbarians--</Description>
+    <Description>This mod cooks several items in "Revenge of the Barbarians"[NEWLINE][NEWLINE][ICON_BULLET] Support Barbarian Clans game mode[NEWLINE][ICON_BULLET] Correct lua errors caused when a new Barbarian is added to the map then quickly deleted by another mod[NEWLINE][ICON_BULLET] R.E.D.: Barbarian Units now scale[NEWLINE][ICON_BULLET]Add upgrade path for the Hedge Knight, Plunderer, and Scorcher[NEWLINE][NEWLINE]Mod Support[NEWLINE][ICON_BULLET] Nere's Better Barbarian Clans mode[NEWLINE][ICON_BULLET] R.E.D Total War Unified Modpack[NEWLINE][ICON_BULLET] R.E.D. Modpack[NEWLINE][ICON_BULLET] Sukritact's Barbarians--</Description>
     <Authors>GrayPockets</Authors>
     <SpecialThanks>Shadow</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>

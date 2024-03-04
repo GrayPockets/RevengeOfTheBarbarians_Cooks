@@ -97,3 +97,12 @@ SET
 	"RaidingBoldness" = 10,
 	"CityAttackBoldness" = 25
 WHERE "TribeType" = 'TRIBE_CLAN_NAVAL';
+
+-- Add upgrade paths to a few units
+
+INSERT OR REPLACE INTO "UnitUpgrades"
+	(	"Unit",						"UpgradeUnit"			)
+VALUES
+	(	'UNIT_BARB_HEDGE_KNIGHT',		'UNIT_CUIRASSIER'		),
+	(	'UNIT_BARB_PLUNDERER',			'UNIT_CROSSBOWMAN'		),
+	(	'UNIT_BARB_SCORCHER',			'UNIT_FIELD_CANNON'		);

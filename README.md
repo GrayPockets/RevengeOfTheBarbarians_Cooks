@@ -4,9 +4,10 @@
 
 This mod cooks several items in "Revenge of the Barbarians"
 
-* Support Barbarian Clans game mode.
-* Correct lua errors caused when a new Barbarian is added to the map then quickly deleted by another mod.
-* R.E.D.: Barbarian Units now scale.
+* Support Barbarian Clans game mode
+* Correct lua errors caused when a new Barbarian is added to the map then quickly deleted by another mod
+* R.E.D.: Barbarian Units now scale
+* Add upgrade path for the Hedge Knight, Plunderer, and Scorcher
 
 ## Mod Support
 
